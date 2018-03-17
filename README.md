@@ -10,9 +10,8 @@ As a general note, be sure to keep a record of any resources that you use or ref
 1. What is our independent variable? What is our dependent variable?
 
 2. What is an appropriate set of hypotheses for this task? Specify the null and alternative hypotheses based on what you think the researchers might be interested in. Justify your choices.
-   * Now it’s your chance to try out the Stroop task for yourself. In order to get a better understanding of the Stroop task works, try it out yourself here. https://www.google.com/url?                q=https://faculty.washington.edu/chudler/java/ready.html&sa=D&ust=1520800795856000&usg=AFQjCNFS72ighy5tj6cGPwBZgYreEl_zRg
-
-Now, you can answer these questions directly within the classroom on the previous page, or you can download the data from the resources to complete on your local machine.
+   * Now it’s your chance to try out the Stroop task for yourself. In order to get a better understanding of the Stroop task works, try it out yourself [here]: https://www.google.com/url?q=https://faculty.washington.edu/chudler/java/ready.html&sa=D&ust=1520800795856000&usg=AFQjCNFS72ighy5tj6cGPwBZgYreEl_zRg
+   * Now, you can answer these questions directly within the classroom on the previous page, or you can download the data from the resources to complete on your local machine.
 
 3. Report some descriptive statistics regarding this dataset. Include at least one measure of central tendency and at least one measure of variability.
 
